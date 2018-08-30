@@ -1,0 +1,39 @@
+<<<<<<< HEAD
+@charset "utf-8";
+/* CSS Document */
+
+=======
+>>>>>>> 273b10dd724db98cb4d55d73da567b12e22345dc
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.bgimg {
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    color: grey;
+    font-family: "Montserrat", Courier, monospace;
+    font-size: 25px;
+}
+
+
+.middle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+hr {
+    margin: auto;
+    width: 100%;
+}
+<<<<<<< HEAD
+
+	
+=======
+>>>>>>> 273b10dd724db98cb4d55d73da567b12e22345dc
